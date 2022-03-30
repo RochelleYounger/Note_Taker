@@ -51,7 +51,7 @@ Create, save, view, and delete notes with the Noted application. Organize and no
 
 ## Demo
 
-https://user-images.githubusercontent.com/54952993/160903906-e38e773a-4123-4e29-8359-427c0bb0604b.mp4
+https://user-images.githubusercontent.com/54952993/160911187-7e780968-bb6d-4805-b934-3afebea22763.mp4
 
 
 ## Contributing
