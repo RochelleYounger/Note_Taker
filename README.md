@@ -20,7 +20,7 @@ Create, save, view, and delete notes with the Noted application. Organize and no
 
 ## Website
 
-[Noted](https://stormy-ravine-87920.herokuapp.com/notes)
+[Noted](https://stormy-ravine-87920.herokuapp.com)
 
 
 ## Usage
