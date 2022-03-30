@@ -50,7 +50,6 @@ blurb
 
 ## Demo
 
-https://user-images.githubusercontent.com/54952993/155785293-c51dd592-68de-475d-81a6-a150fedd2c96.mp4
 
 ## Contributing
 
