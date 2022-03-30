@@ -11,6 +11,7 @@ Create, save, view, and delete notes with the Noted application. Organize and no
 
   * [Deployed Application](#website)
   * [Usage](#usage)
+  * [Demo](#demo)
   * [Contributing](#contributing)
   * [License](#license)
   * [Credits](#credits)
